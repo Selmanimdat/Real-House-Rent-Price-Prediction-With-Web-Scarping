@@ -5,15 +5,12 @@ This repository contains a project for performing regression analysis with data 
 ## Project Structure
 
 Regression with Web Scraping/
-│
-├── Data cleaning.ipynb # Jupyter notebook for data cleaning
-├── Regression_.ipynb # Jupyter notebook for regression analysis
-├── WEB scarping.ipynb # Jupyter notebook for web scraping
-├── best_et_model.pkl # Trained Extra Trees model
-├── clean_data.pickle # Cleaned data in pickle format
-├── logs.log # Log file
-├── rent_houses.csv # Dataset
-└── Streamlit/
+├── Data cleaning.ipynb # Jupyter notebook for data cleaning <br>
+├── Regression_.ipynb # Jupyter notebook for regression analysis<br>
+├── WEB scarping.ipynb # Jupyter notebook for web scraping<br>
+├── best_et_model.pkl # Trained Extra Trees model<br>
+├── clean_data.pickle # Cleaned data in pickle format<br>
+├── rent_houses.csv # Dataset<br>
 └── app.py # Streamlit application script
 
 ## Requirements
