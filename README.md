@@ -1,4 +1,4 @@
-# Regression with Web Scraping
+# Real House Rent Price Prediction With Web Scarping
 
 This repository contains a project for performing regression analysis with data obtained from web scraping. The project includes data cleaning, model training, and a Streamlit app for model prediction.
 
