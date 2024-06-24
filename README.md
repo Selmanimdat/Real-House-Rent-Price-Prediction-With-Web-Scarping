@@ -4,7 +4,7 @@ This repository contains a project for performing regression analysis with data 
 
 ## Project Structure
 
-Regression with Web Scraping/<br>
+Regression with Web Scraping<br>
 ├── Data cleaning.ipynb # Jupyter notebook for data cleaning <br>
 ├── Regression_.ipynb # Jupyter notebook for regression analysis<br>
 ├── WEB scarping.ipynb # Jupyter notebook for web scraping<br>
