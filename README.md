@@ -2,7 +2,7 @@
 Screenshot 2024-06-24 152600.png
 This repository contains a project for performing regression analysis with data obtained from web scraping. The project includes data cleaning, model training, and a Streamlit app for model prediction.
 
-![Project Overview](Screenshot 2024-06-24 152600.png)
+![Project Overview](Screenshot%202024-06-24%20152600.png)
 
 ## Project Structure
 
