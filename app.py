@@ -8,7 +8,6 @@ import pandas as pd
 #model = load_model('C:\\Users\\Selman\\Documents\\Aİ\\Regression  with Web Scarping\\best_et_model')
 
 # Streamlit app
-
 st.title('Real House Rent Price Prediction')
 # Input fields for the features
 location = st.selectbox('Lokasyon', ['Maslak, Sarıyer, İstanbul', 'Fevzi Çakmak, Esenler, İstanbul',
@@ -191,8 +190,8 @@ if st.button('Predict Price'):
         'Mobilya Durumu': [mobilya_durumu]
     })
 
-    #prediction = predict_model(model, data=input_data)
-    #predicted_price = prediction['Label'][0]
+    prediction = predict_model(model, data=input_data)
+    predicted_price = prediction['Label'][0]
 
-st.markdown('## The predicted price for the given parameters is: 62320 tl')
+st.markdown(f'## The predicted price for the given parameters is: {predicted_price} TL')
 
